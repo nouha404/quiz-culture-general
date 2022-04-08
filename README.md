@@ -1,2 +1,2 @@
 # quiz-culture-general
-La V1
+La V2 se lieu de gerer les réponses True or False
